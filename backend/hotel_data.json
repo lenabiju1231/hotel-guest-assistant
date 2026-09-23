@@ -1,0 +1,66 @@
+{
+  "hotel": {
+    "name": "Grand Horizon Hotel",
+    "location": "Bangalore, India",
+    "check_in_time": "2:00 PM",
+    "check_out_time": "12:00 PM",
+    "contact": "+91 80 4000 1234"
+  },
+  "rooms": [
+    {
+      "type": "Standard Room",
+      "description": "Comfortable room suitable for individuals or couples.",
+      "capacity": 2,
+      "price_per_night": 100
+    },
+    {
+      "type": "Deluxe Room",
+      "description": "Spacious room with a king-size bed and city view.",
+      "capacity": 3,
+      "price_per_night": 150
+    },
+    {
+      "type": "Family Suite",
+      "description": "Large suite suitable for families and small groups.",
+      "capacity": 4,
+      "price_per_night": 220
+    }
+  ],
+  "amenities": [
+    "Free Wi-Fi",
+    "Swimming pool",
+    "Fitness center",
+    "24-hour front desk",
+    "Restaurant",
+    "Room service",
+    "Free parking"
+  ],
+  "policies": {
+    "cancellation": "Free cancellation up to 24 hours before check-in.",
+    "pets": "Pets are not allowed.",
+    "smoking": "Smoking is not permitted inside rooms.",
+    "children": "Children are welcome."
+  },
+  "faqs": [
+    {
+      "question": "What time is check-in?",
+      "answer": "Check-in starts at 2:00 PM."
+    },
+    {
+      "question": "What time is check-out?",
+      "answer": "Check-out is until 12:00 PM."
+    },
+    {
+      "question": "Is Wi-Fi available?",
+      "answer": "Yes. Free Wi-Fi is available throughout the hotel."
+    },
+    {
+      "question": "Do you have a swimming pool?",
+      "answer": "Yes. The hotel has a swimming pool."
+    },
+    {
+      "question": "Do you allow pets?",
+      "answer": "No. Pets are not allowed."
+    }
+  ]
+}
